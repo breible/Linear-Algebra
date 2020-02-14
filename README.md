@@ -1,2 +1,2 @@
-# Lineare-Algebra
-This repository collects several Jupyter Notebooks which I created for tutorials accompanying a Linear Algebra Lecture I gave.
+# Linear-Algebra
+This repository contains several Jupyter Notebooks I created for tutorials I gave accompanying a Linear Algebra Lecture in the Winter 2019/2020 term.
